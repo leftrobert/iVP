@@ -11,7 +11,7 @@ a {cursor: default;}
 .s-container {position: relative; margin: auto; min-height: 10px;}
 .item {display: inline-block; height: 122px; width: 162px;}
 .icon-c {position: inherit; display: block; top: 0px; left: 0px; width: 100%; height: 64px; padding-top: 19px;}
-img {border-radius: 8px; box-shadow: 0 0 12px rgba(0,0,0,.15);}
+img {border-radius: 18px; box-shadow: 0 0 12px rgba(0,0,0,.15);}
 .label {position: inherit; display: block; top: 0px; left: 0px; width: 100%; height: 29px; padding-top: 5px; text-align: center; font-size: 15px; color: #FFFFFF; line-height: 20px; text-shadow: 0 0 12px rgba(0,0,0,1); cursor: default;}
 .animatable {transition: all .8s ease, opacity .5s ease;}
 .invincible {opacity: 0; visibility: hidden;}
