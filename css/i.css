@@ -1,4 +1,4 @@
-body {overflow: hidden; margin: 0; background: var(--page-bg) center fixed no-repeat; background-size: cover; font-family: Hel, sans-serif; border-top: 96px solid rgba(0,0,0,0);}
+body {overflow: hidden; margin: 0; background: var(--page-bg) center fixed no-repeat; background-size: cover; font-family: -apple-system,system-ui,BlinkMacSystemFont,SF Pro,Hel, sans-serif; border-top: 96px solid rgba(0,0,0,0);}
 a {cursor: default;}
 .material {backdrop-filter: blur(40px) saturate(1.2) brightness(1.2); background-color: rgba(225,225,225,.2)}
 .material-bright {backdrop-filter: blur(40px) saturate(1.2) brightness(1.2); background-color: rgba(225,225,225,.8)}
